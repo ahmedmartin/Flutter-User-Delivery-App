@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467317327841-lbletihce0o95opg0q6jmgt88kd6jv7m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467317327841-lbletihce0o95opg0q6jmgt88kd6jv7m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>467317327841-i9vqtdo39bvncpb0vl5h50972qlu4t52.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXiyk_yhzIbvu240rK7x5paK44eFnjlLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467317327841</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ra7al.ra7al-seller</string>
+	<key>PROJECT_ID</key>
+	<string>ra7al-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ra7al-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467317327841:ios:0fc92a8aa2c049f8c974a0</string>
+</dict>
+</plist>
